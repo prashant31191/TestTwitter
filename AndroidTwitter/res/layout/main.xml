@@ -11,7 +11,7 @@
 		android:layout_height="wrap_content"
 		android:textSize="13sp"
 		android:textColor="#fff"
-		android:text="This example shows how to connect to Twitter, display authorization dialog and save user's token and username"/>
+		android:text="Tweet Done"/>
 		
 	
 </LinearLayout>
